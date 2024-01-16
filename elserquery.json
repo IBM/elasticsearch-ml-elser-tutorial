@@ -1,0 +1,10 @@
+{
+    "query":{
+       "text_expansion":{
+          "ml.tokens":{
+             "model_id":".elser_model_1",
+             "model_text":"how does a stock market work"
+          }
+       }
+    }
+ }

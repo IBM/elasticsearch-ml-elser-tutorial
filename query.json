@@ -1,0 +1,10 @@
+{
+    "size": 10,
+    "_source":["text"],
+    "query": {
+
+        "match": {
+            "text": "how does a stock market work"
+        }
+    }
+}
